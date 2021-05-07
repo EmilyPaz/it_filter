@@ -35,7 +35,7 @@ My next step is to make an API REST connection to Sharepoint so we can extract t
 - Pandas :panda_face: 
 - RegEx :bookmark_tabs:
 - Hashlib MD5 :link:
-- Scikit-learn :
+- Scikit-learn :chart_with_upwards_trend:
 - PyCharm :beetle:
 
 ## :open_file_folder: **Folder structure**
@@ -58,7 +58,7 @@ My next step is to make an API REST connection to Sharepoint so we can extract t
     └── main_script.py
 ```
 
-### :mailbox_with_mail: CONTACT INFO
+### :mailbox_with_mail: Contact info
 
 If you have any comments or questions please contact me! emilypaz3012@gmail.com
 
